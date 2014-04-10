@@ -72,25 +72,14 @@ a:link {
 a:hover{
 	color: white;}
  
-
-@media only screen and (max-device-width: 320px) {
-
-	body {
-		max-width: 90%;
+@media only screen (max-device-width:320px){
+	body{
+		max-width: 90%;  
 		font-size: 16px;
 	}
-
-	img {
-		display: none;
-	}
-
-	nav ul li {
-		display: block;
-		padding: .5em;
-		margin: 10px;
-	}
-
 }
+
+
 
 
 
