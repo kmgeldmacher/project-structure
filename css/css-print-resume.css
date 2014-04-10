@@ -1,0 +1,15 @@
+body{
+	background: transparent;
+	color: black; 
+	font-size: 12px; 
+	font-family: 'Gudea', sans-serif;
+}
+
+
+@page {
+	margin: .5in
+}
+
+nav, footer, {
+	display: none; 
+}
